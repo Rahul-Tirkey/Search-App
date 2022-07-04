@@ -9,4 +9,4 @@ Click on it and launch the web app through your web browser.
 Also a Watch option will appear after downloading the Live Sass Compiler.
 Click on it and it will create two files of .css and .map extension.
 You can also set the format and path of the files from the extension settings.
-Delete any dulicate files and you are ready to go!
+Delete any duplicate files and you are ready to go!
